@@ -74,7 +74,7 @@ echo "<script>window.location.href ='index.php'</script>";
 
             <div class="carousel-inner">
                 <div class="carousel-item ">
-                    <img class="d-block w-100" src="assets/images/slider/slider_2.jpg" alt="Second slide">
+                    <img class="d-block w-100" src="assets/images/slider/image2.jpg" alt="Second slide">
                     <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
                         <h5 class="animated bounceInDown">Hospital Management System</h5>
@@ -85,7 +85,7 @@ echo "<script>window.location.href ='index.php'</script>";
                 </div>
                 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="assets/images/slider/slider_3.jpg" alt="Third slide">
+                    <img class="d-block w-100" src="assets/images/slider/image3.webp" alt="Third slide">
                       <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
                         <h5 class="animated bounceInDown">Hospital Management System</h5>
