@@ -109,7 +109,7 @@
 
 
 
-				<li>
+				<!-- <li>
 								<a href="javascript:void(0)">
 									<div class="item-content">
 										<div class="item-media">
@@ -150,11 +150,11 @@
 										</div>
 									</div>
 								</a>
-							</li>		
+							</li>		 -->
 
 
 
-							<li>
+							<!-- <li>
 								<a href="user-logs.php">
 									<div class="item-content">
 										<div class="item-media">
@@ -166,7 +166,7 @@
 									</div>
 								</a>
 							</li>						
-				<li>
+				<li> -->
 								<a href="javascript:void(0)">
 									<div class="item-content">
 										<div class="item-media">
@@ -188,7 +188,7 @@
 							</li>
 
 <!--- Pages---->
-				<li>
+				<!-- <li>
 								<a href="javascript:void(0)">
 									<div class="item-content">
 										<div class="item-media">
@@ -212,7 +212,7 @@
 										</a>
 									</li>
 								</ul>
-							</li>
+							</li> -->
 
 
 
